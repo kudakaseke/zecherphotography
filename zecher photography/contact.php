@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       <a href="https://wa.me/263771112299" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><img src="assets/socials%20logo/Whatsapp.png" alt="WhatsApp" /></a>
     </div>
     <p class="footer-copy">&copy; <span id="year"></span> Zecher Photography</p>
-    <p class="footer-powered">Powered by CodeDev Solutions</p>
+    <p class="footer-powered">Powered by CodeDev_Solutions</p>
   </footer><script src="assets/script.js"></script>
 </body></html>
 
